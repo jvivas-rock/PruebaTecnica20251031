@@ -1,0 +1,6 @@
+@if (isAuthenticated) {
+  <app-layout />
+} @else {
+  <!-- Páginas de auth para usuarios no autenticados -->
+  <router-outlet />
+}

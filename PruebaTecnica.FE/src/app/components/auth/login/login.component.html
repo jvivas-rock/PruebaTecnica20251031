@@ -1,0 +1,132 @@
+<div class="min-h-screen bg-gradient-to-br from-primary-50 to-blue-100 flex items-center justify-center p-4">
+  <div class="max-w-md w-full">
+    <!-- Card -->
+    <div class="bg-white rounded-2xl shadow-xl p-8">
+      <!-- Header -->
+      <div class="text-center mb-8">
+        <div class="w-16 h-16 bg-gradient-to-r from-primary-500 to-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4">
+          <i-lucide name="check-circle" class="w-8 h-8 text-white"></i-lucide>
+        </div>
+        <h1 class="text-2xl font-bold text-gray-900">Bienvenido de nuevo</h1>
+        <p class="text-gray-600 mt-2">Ingresa a tu cuenta para continuar</p>
+      </div>
+
+      <!-- Error Message -->
+      <div
+        *ngIf="errorMessage"
+        class="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg flex items-center"
+      >
+        <i-lucide name="alert-circle" class="w-5 h-5 text-red-500 mr-3"></i-lucide>
+        <span class="text-red-700 text-sm">{{ errorMessage }}</span>
+      </div>
+
+      <!-- Form -->
+      <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="space-y-6">
+        <div>
+          <label for="username" class="block text-sm font-medium text-gray-700 mb-2">
+            Usuario *
+          </label>
+          <input
+            id="username"
+            type="text"
+            formControlName="username"
+            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-colors"
+            placeholder="Ingresa tu usuario"
+            [class.border-red-300]="username?.invalid && username?.touched"
+          >
+          <div
+            *ngIf="username?.invalid && username?.touched"
+            class="text-red-600 text-sm mt-1"
+          >
+            El usuario es requerido
+          </div>
+        </div>
+
+        <div>
+          <label for="password" class="block text-sm font-medium text-gray-700 mb-2">
+            Contraseña *
+          </label>
+          <input
+            id="password"
+            type="password"
+            formControlName="password"
+            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-colors"
+            placeholder="Ingresa tu contraseña"
+            [class.border-red-300]="password?.invalid && password?.touched"
+          >
+          <div
+            *ngIf="password?.invalid && password?.touched"
+            class="text-red-600 text-sm mt-1"
+          >
+            La contraseña es requerida
+          </div>
+        </div>
+
+        <!-- Remember Me & Forgot Password -->
+        <div class="flex items-center justify-between">
+          <label class="flex items-center">
+            <input type="checkbox" class="w-4 h-4 text-primary-500 border-gray-300 rounded focus:ring-primary-500">
+            <span class="ml-2 text-sm text-gray-600">Recordarme</span>
+          </label>
+          <a href="#" class="text-sm text-primary-600 hover:text-primary-700 font-medium">
+            ¿Olvidaste tu contraseña?
+          </a>
+        </div>
+
+        <button
+          type="submit"
+          [disabled]="loginForm.invalid || isLoading"
+          [class]="'w-full py-3 px-4 rounded-lg font-medium text-white transition-colors flex items-center justify-center ' +
+                   (loginForm.invalid || isLoading ? 'bg-gray-400 cursor-not-allowed' : 'bg-gradient-to-r from-primary-500 to-blue-600 hover:from-primary-600 hover:to-blue-700')"
+        >
+          <span *ngIf="!isLoading">Iniciar Sesión</span>
+          <span *ngIf="isLoading" class="flex items-center">
+            <i-lucide name="loader-2" class="w-4 h-4 animate-spin mr-2"></i-lucide>
+            Iniciando sesión...
+          </span>
+        </button>
+      </form>
+
+      <!-- Divider -->
+      <div class="mt-6">
+        <div class="relative">
+          <div class="absolute inset-0 flex items-center">
+            <div class="w-full border-t border-gray-300"></div>
+          </div>
+          <div class="relative flex justify-center text-sm">
+            <span class="px-2 bg-white text-gray-500">O continúa con</span>
+          </div>
+        </div>
+
+        <!-- Social Login -->
+        <div class="mt-6 grid grid-cols-2 gap-3">
+          <button
+            type="button"
+            class="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-lg shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-gray-50 transition-colors"
+          >
+            <i-lucide name="github" class="w-5 h-5"></i-lucide>
+          </button>
+          <button
+            type="button"
+            class="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-lg shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-gray-50 transition-colors"
+          >
+            <i-lucide name="google" class="w-5 h-5"></i-lucide>
+          </button>
+        </div>
+      </div>
+
+      <!-- Footer -->
+      <div class="mt-6 text-center">
+        <p class="text-gray-600">
+          ¿No tienes una cuenta?
+          <a
+            routerLink="/register"
+            class="text-primary-600 hover:text-primary-700 font-medium transition-colors"
+          >
+            Regístrate aquí
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

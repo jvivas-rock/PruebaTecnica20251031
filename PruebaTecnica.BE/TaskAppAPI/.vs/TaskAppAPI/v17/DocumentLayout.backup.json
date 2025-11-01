@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\taskappapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523086DA-098E-4FA1-B991-3BBFD2397538}|..\\PruebaTecnica.BE.Infrastructure\\PruebaTecnica.BE.Infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\pruebatecnica.be.infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\taskappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\taskappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +34,6 @@
       "RelativeMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\taskappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F0BE5B28-9C45-4AC4-8F76-83727D90B559}|TaskAppAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3DAC56B-F6B0-4147-B0A6-DFD802CAB0EE}|..\\PruebaTecnica.BE.Application\\PruebaTecnica.BE.Application.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\pruebatecnica.be.application\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,9 +47,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3DAC56B-F6B0-4147-B0A6-DFD802CAB0EE}|..\\PruebaTecnica.BE.Application\\PruebaTecnica.BE.Application.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\pruebatecnica.be.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{523086DA-098E-4FA1-B991-3BBFD2397538}|..\\PruebaTecnica.BE.Infrastructure\\PruebaTecnica.BE.Infrastructure.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\pruebatecnica.be.infrastructure\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52FF343D-C023-48E8-B138-C47FDF9F93A2}|..\\PruebaTecnica.BE.Domain\\PruebaTecnica.BE.Domain.csproj|c:\\users\\user\\desktop\\pruebatecnica\\pruebatecnica.be\\pruebatecnica.be.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -76,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,20 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Controllers\\DashboardController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T04:22:03.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -109,12 +100,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T04:16:46.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T04:16:46.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
@@ -122,12 +112,11 @@
               "RelativeToolTip": "Controllers\\BaseApiController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T04:14:58.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T04:14:58.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
@@ -135,12 +124,11 @@
               "RelativeToolTip": "Controllers\\TaskController.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAgwIcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T04:13:08.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T04:13:08.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -148,25 +136,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAgwGEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T04:04:03.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T04:04:03.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-01T04:03:44.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T04:03:44.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Domain\\Entities\\Users\\User.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Domain\\Entities\\Users\\User.cs",
@@ -174,12 +160,48 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Domain\\Entities\\Users\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:36:31.463Z",
+              "WhenOpened": "2025-11-01T03:36:31.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
+              "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
+              "RelativeToolTip": "..\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T03:04:54.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:55:12.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\TaskAppAPI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:22:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Repositories\\User\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Infrastructure\\Repositories\\User\\UserRepository.cs",
@@ -187,25 +209,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Infrastructure\\Repositories\\User\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:21:51.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T03:21:51.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
-              "RelativeToolTip": "..\\PruebaTecnica.BE.Infrastructure\\Database\\DBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:04:54.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Services\\TaskService.cs",
@@ -213,12 +221,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Services\\TaskService.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAQwEYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:59:18.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:59:18.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Services\\UserService.cs",
@@ -226,12 +233,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Services\\UserService.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAA1wHMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:52:32.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:52:32.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Infrastructure\\Repositories\\BaseRepository.cs",
@@ -239,12 +245,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Infrastructure\\Repositories\\BaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:09:28.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T03:09:28.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\IRepository.cs",
@@ -252,12 +257,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAqwAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:39:24.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:39:24.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\Repositories\\Task\\TaskRepository.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Infrastructure\\Repositories\\Task\\TaskRepository.cs",
@@ -265,12 +269,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Infrastructure\\Repositories\\Task\\TaskRepository.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowA4AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:23:02.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T03:23:02.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Infrastructure\\IOC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Infrastructure\\IOC\\DependencyInjection.cs",
@@ -278,12 +281,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Infrastructure\\IOC\\DependencyInjection.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:26:01.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T03:26:01.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TaskDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Domain\\DTOs\\Tasks\\TaskDto.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Domain\\DTOs\\Tasks\\TaskDto.cs",
@@ -291,12 +293,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Domain\\DTOs\\Tasks\\TaskDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T03:02:58.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T03:02:58.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Interfaces\\Services\\ITaskService.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Interfaces\\Services\\ITaskService.cs",
@@ -304,12 +305,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Interfaces\\Services\\ITaskService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:51:23.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:51:23.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Interfaces\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Interfaces\\Services\\IUserService.cs",
@@ -317,12 +317,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Interfaces\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:50:56.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:50:56.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ITaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\ITaskRepository.cs",
@@ -330,12 +329,11 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\ITaskRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:41:18.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:41:18.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PruebaTecnica\\PruebaTecnica.BE\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\IUserRepository.cs",
@@ -343,8 +341,7 @@
               "RelativeToolTip": "..\\PruebaTecnica.BE.Application\\Interfaces\\Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T02:40:26.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T02:40:26.832Z"
             }
           ]
         }

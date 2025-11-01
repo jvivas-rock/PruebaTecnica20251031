@@ -51,11 +51,11 @@ CREATE INDEX IX_Tasks_DueDate ON Tasks(DueDate);
 CREATE INDEX IX_Tasks_CreatedAt ON Tasks(CreatedAt);
 GO
 
--- Datos de prueba (Opcional)
+-- Datos de prueba (Opcional) Password: admin123
 INSERT INTO Users (Username, Email, PasswordHash, FirstName, LastName, CreatedAt, UpdatedAt, CreatedBy, UpdatedBy)
 VALUES 
-('admin', 'admin@taskmanager.com', '$2a$12$LQv3c1yqBWVHxkd0L6kZrO', 'Admin', 'User', GETUTCDATE(), GETUTCDATE(), 'system', 'system'),
-('juan.perez', 'juan.perez@email.com', '$2a$12$LQv3c1yqBWVHxkd0L6kZrO', 'Juan', 'Pérez', GETUTCDATE(), GETUTCDATE(), 'system', 'system');
+('admin', 'admin@taskmanager.com', '$2a$12$LQv3c1yqBWVHxkd0L6kZrO.cU2Hjo6N5xb5e6W6X8dQYQ7cZ1q8W2', 'Admin', 'User', GETUTCDATE(), GETUTCDATE(), 'system', 'system'),
+('juan.perez', 'juan.perez@email.com', '$2a$12$LQv3c1yqBWVHxkd0L6kZrO.cU2Hjo6N5xb5e6W6X8dQYQ7cZ1q8W2', 'Juan', 'Pérez', GETUTCDATE(), GETUTCDATE(), 'system', 'system');
 GO
 
 INSERT INTO Tasks (TaskCode, Title, Description, Status, DueDate, Priority, UserId, CreatedAt, UpdatedAt, CreatedBy, UpdatedBy)

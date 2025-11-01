@@ -8,8 +8,8 @@ namespace PruebaTecnica.BE.Infrastructure.Database
     {
         public DBContext(DbContextOptions<DBContext> options) : base(options) { }
 
-        public DbSet<TaskItem> Task { get; set; }
-        public DbSet<User> User { get; set; }
+        public DbSet<TaskItem> Tasks { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

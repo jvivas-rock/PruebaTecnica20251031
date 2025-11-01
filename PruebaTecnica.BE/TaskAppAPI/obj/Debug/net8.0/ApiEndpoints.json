@@ -167,6 +167,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TaskAppAPI.Controllers.TestController",
+    "Method": "TestDatabaseConnection",
+    "RelativePath": "api/Test/database",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaskAppAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -15,3 +15,4 @@ C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Infrastruc
 C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Infrastructure\obj\Debug\net8.0\refint\PruebaTecnica.BE.Infrastructure.dll
 C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Infrastructure\obj\Debug\net8.0\PruebaTecnica.BE.Infrastructure.pdb
 C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Infrastructure\obj\Debug\net8.0\ref\PruebaTecnica.BE.Infrastructure.dll
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Infrastructure\obj\Debug\net8.0\PruebaTecnica.BE.Infrastructure.sourcelink.json

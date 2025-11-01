@@ -97,3 +97,4 @@ C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\TaskAppAPI\obj\Debug\net8.0
 C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\TaskAppAPI\obj\Debug\net8.0\TaskAppAPI.pdb
 C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\TaskAppAPI\obj\Debug\net8.0\TaskAppAPI.genruntimeconfig.cache
 C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\TaskAppAPI\obj\Debug\net8.0\ref\TaskAppAPI.dll
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\TaskAppAPI\obj\Debug\net8.0\TaskAppAPI.sourcelink.json
