@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\bin\Debug\net8.0\PruebaTecnica.BE.Application.deps.json
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\bin\Debug\net8.0\PruebaTecnica.BE.Application.dll
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\bin\Debug\net8.0\PruebaTecnica.BE.Application.pdb
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\bin\Debug\net8.0\PruebaTecnica.BE.Domain.dll
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\bin\Debug\net8.0\PruebaTecnica.BE.Domain.pdb
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTe.401EA9A1.Up2Date
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.dll
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\refint\PruebaTecnica.BE.Application.dll
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\PruebaTecnica.BE.Application.pdb
+C:\Users\User\Desktop\PruebaTecnica\PruebaTecnica.BE\PruebaTecnica.BE.Application\obj\Debug\net8.0\ref\PruebaTecnica.BE.Application.dll
