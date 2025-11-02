@@ -93,6 +93,11 @@ export class RegisterComponent {
     });
   }
 
+  goBack(): void {
+    // Navega directamente al login
+    this.router.navigate(['/login']);
+  }
+
   get firstName() { return this.registerForm.get('firstName'); }
   get lastName() { return this.registerForm.get('lastName'); }
   get username() { return this.registerForm.get('username'); }

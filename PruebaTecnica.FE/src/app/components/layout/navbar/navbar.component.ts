@@ -3,7 +3,7 @@ import { User } from '../../../models/user.model';
 import { AuthService } from '../../../services/auth.service';
 import { LucideAngularModule } from "lucide-angular";
 import { CommonModule } from '@angular/common';
-import { RouterModule } from '@angular/router';
+import { Router, RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-navbar',
@@ -22,7 +22,10 @@ export class NavbarComponent {
   currentUser: User | null = null;
   isProfileMenuOpen = false;
 
-  constructor(private authService: AuthService) {
+  constructor(
+    private authService: AuthService,
+    private router: Router
+  ) {
     this.authService.currentUser$.subscribe(user => {
       this.currentUser = user;
     });
@@ -38,6 +41,8 @@ export class NavbarComponent {
 
   logout(): void {
     this.authService.logout();
+    this.isProfileMenuOpen = false;
+    this.router.navigate(['/login']);
   }
 
   get userInitials(): string {
