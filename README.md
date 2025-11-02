@@ -1,9 +1,10 @@
-##TaskManager - Sistema Completo de Gestión de Tareas
-# Una aplicación full-stack moderna para la gestión de tareas, construida con Angular 17+ en el frontend y .NET 8 en el backend.
+# TaskManager - Sistema Completo de Gestión de Tareas
+## Una aplicación full-stack moderna para la gestión de tareas, construida con Angular 17+ en el frontend y .NET 8 en el backend.
 
-##🚀 Características Principales
 
-#✅ Gestión de Tareas
+# 🚀 Características Principales
+
+## ✅ Gestión de Tareas
 
 - CRUD Completo: Crear, leer, editar y eliminar tareas
 
@@ -13,7 +14,7 @@
 
 - Fechas y recordatorios: Gestión de tiempos y vencimientos
 
-#🔐 Autenticación y Seguridad
+## 🔐 Autenticación y Seguridad
 
 - Registro e inicio de sesión: Autenticación segura de usuarios
 
@@ -23,7 +24,7 @@
 
 - Passwords encriptadas: Seguridad de credenciales
 
-#📊 Dashboard y Analytics
+## 📊 Dashboard y Analytics
 
 - Estadísticas visuales: Tareas completadas vs pendientes
 
@@ -32,9 +33,9 @@
 - Filtros y búsqueda: Encontrar tareas rápidamente
 
 
-##🛠️ Tecnologías Utilizadas
+# 🛠️ Tecnologías Utilizadas
 
-#Frontend (Client)
+## Frontend (Client)
 
 - Angular 17+ - Framework principal
 
@@ -47,7 +48,7 @@
 - Lucide Icons - Librería de iconos
 
 
-#Backend (Server)
+## Backend (Server)
 
 - .NET 8 - Framework backend
 
@@ -60,9 +61,9 @@
 - Swagger/OpenAPI - Documentación de API
 
 
-##📋 Prerrequisitos
+# 📋 Prerrequisitos
 
-#Software Requerido
+## Software Requerido
 
 - Node.js 18+
 
@@ -72,13 +73,13 @@
 
 - Git
 
-##🚀 Instalación y Configuración
+# 🚀 Instalación y Configuración
 
-#Paso 1: Clonar el Repositorio
-git clone https://github.com/jvivas-rock/PruebaTecnica20251031.git
-cd PruebaTecnica20251031
+## Paso 1: Clonar el Repositorio
+- git clone https://github.com/jvivas-rock/PruebaTecnica20251031.git
+- cd PruebaTecnica20251031
 
-#Paso 2: Configuración de la Base de Datos (Server)
+## Paso 2: Configuración de la Base de Datos (Server)
 1. Ejecutar SQL Server Management Studio
 2. Crear la base de datos:
 CREATE DATABASE TaskManagerDB;
@@ -86,7 +87,7 @@ CREATE DATABASE TaskManagerDB;
 3. Ejecutar el script de inicialización:
 Ejecutar el script SQLQuery.sql
 
-#Paso 3: Configuración del Backend (.NET 8)
+## Paso 3: Configuración del Backend (.NET 8)
 1. Navegar al directorio del servidor:
 cd PruebaTecnica.BE/
 
@@ -109,7 +110,7 @@ dotnet run
 
 El API estará disponible en: https://localhost:44354
 
-#Paso 4: Configuración del Frontend (Angular)
+## Paso 4: Configuración del Frontend (Angular)
 1. Navegar al directorio del cliente:
 cd PruebaTecnica.FE/
 
@@ -130,13 +131,13 @@ ng serve
 
 La aplicación estará disponible en: http://localhost:4200
 
-##📡 Endpoints del API
-#Autenticación
+# 📡 Endpoints del API
+## Autenticación
 POST /api/Auth/register - Registrar nuevo usuario
 
 POST /api/Auth/login - Iniciar sesión
 
-#Tareas
+## Tareas
 GET /api/Tasks - Obtener todas las tareas del usuario
 
 POST /api/Tasks - Crear nueva tarea
@@ -146,12 +147,12 @@ PUT /api/Tasks/{id} - Actualizar tarea
 DELETE /api/Tasks/{id} - Eliminar tarea
 
 
-#Dashboard
+## Dashboard
 GET /api/Dashboard/statistics - Obtener estadísticas
 
 GET /api/Dashboard/recent-tasks - Tareas recientes
 
-##👤 Usuarios de Prueba
+# 👤 Usuarios de Prueba
 Después de ejecutar el script SQL, puedes usar:
 
 Username: admin
@@ -164,15 +165,15 @@ Password: admin123
 
 O registra un nuevo usuario desde la aplicación
 
-##🏃‍♂️ Comandos Rápidos
-#Backend (.NET)
+# 🏃‍♂️ Comandos Rápidos
+## Backend (.NET)
 cd PruebaTecnica.BE/
 dotnet restore          # Restaurar paquetes
 dotnet build           # Compilar proyecto
 dotnet run            # Ejecutar servidor
 dotnet test           # Ejecutar pruebas
 
-#Frontend (Angular)
+## Frontend (Angular)
 cd PruebaTecnica.FE/
 npm install           # Instalar dependencias
 ng serve             # Servidor desarrollo
@@ -180,8 +181,8 @@ ng build             # Build producción
 ng test              # Ejecutar pruebas
 ng lint              # Análisis de código
 
-##🐛 Solución de Problemas Comunes
-#Error de Conexión a BD
+# 🐛 Solución de Problemas Comunes
+## Error de Conexión a BD
 Verificar que SQL Server está ejecutándose
 sudo systemctl status mssql-server
 
